@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+
+.container {
+	min-width: 970px !important; 
+}
+
+.background {
+	background: url(../img/Layer_1.png) no-repeat center top;
+	text-align: center;
+	background-size: cover;
+	background-position: center center;
+	height: 800px;
+	width: 100%;
+	overflow: auto;
+}
+
+.elipse {
+	margin-top: 100px;
+}
+
+ 
+.besure {
+/* Style for "Be sure yo" */
+	width: 675px;
+	height: 120px;
+	color: #ffffff;
+	font-size: 49px;
+	font-weight: 400;
+	line-height: 62px;
+	text-transform: uppercase;
+	margin: 0 auto;
+	width: 800px;
+	margin-top: 80px;
+}
+
+
+
+.greenrect {
+	/* Style for "Rounded Re" */
+	width: 95px;
+	height: 116px;
+	box-shadow: 0 5px 0 rgba(29, 70, 48, 0.75);
+	background-color: #43a06d;
+	margin-top: 206px;
+	float: left;
+}
+
+
+.block {
+	float: right;
+}
+
+.doc {
+	/* Style for "Documents" */
+	width: 147px;
+	height: 19px;
+	color: #000000;
+	font-size: 27px;
+	font-weight: 400;
+	line-height: 62px;
+}
+
+.disc-doc {
+	/* Style for "This is Ph" */
+	width: 266px;
+	height: 60px;
+	color: #4f4e4e;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 23px;
+	margin-top: 30px;
+}
+.disc {
+	float: left;
+	margin-top: 183px;
+	padding-left: 29px;
+}
+
+.background-2 {
+	background: url(../img/green.png) no-repeat center top;
+	width: 100%;
+	height: 1500px;
+	background-position: center center;
+	margin-top: 112px;
+	background-size: cover;
+	overflow: auto;
+}
+
+.plan {
+	margin-top: 86px;
+	margin-left: 470px;
+}
+
+.discr2 {
+	text-align: center;
+}
+
+.this-head {
+	/* Style for "This is a" */
+	width: 317px;
+	height: 39px;
+	color: #ffffff;
+	font-size: 39px;
+	font-weight: 400;
+	line-height: 62px;
+	margin-left: 380px;
+}
+
+.this-photo {
+	/* Style for "This is Ph" */
+	width: 648px;
+	height: 130px;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 23px;
+	margin-left: 250px;
+	text-align: left;
+	margin-top: 36px;
+}
+
+.this-photo1 {
+	/* Style for "This is Ph" */
+	width: 648px;
+	height: 130px;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 23px;
+	margin-left: 250px;
+	text-align: left;
+}
+
+
+
+
+
+.device {
+	float: left;
+	margin-top: 40px;
+	width: 200px;
+	margin-left: 50px;
+
+	
+}
+
+.this-head3 {
+	/* Style for "This is a" */
+	width: 317px;
+	height: 39px;
+	color: #ffffff;
+	font-size: 39px;
+	font-weight: 400;
+	line-height: 62px;
+	margin-left: 240px;
+}
+
+.discr-bot {
+	text-align: center;
+	margin-top: 120px;
+	margin-left: 50px;
+	width: 200px;
+}
+
+.download1 {
+	margin-left: 300px;
+	margin-top: 50px;
+}
+
+.map {
+	width: 100%;
+}
+
+.block3 {
+	margin-top: 380px;	
+}
